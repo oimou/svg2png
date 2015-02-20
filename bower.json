@@ -1,0 +1,24 @@
+{
+  "name": "svg2png",
+  "version": "0.1.0",
+  "authors": [
+    "oimou <s1190013@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "svg",
+    "png"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
